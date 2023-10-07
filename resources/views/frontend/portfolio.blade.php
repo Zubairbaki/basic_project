@@ -4,7 +4,7 @@
 
 @section('title')
 
-Portfolio | Portfolio page
+Portfolio | Portfolio Page
 @endsection
 
 
